@@ -99,4 +99,17 @@ nama_alias:
 - [[PT Menteng Kencana Mas]]
 - [[Bank Perkreditan Rakyat (BPR)]]
 
+## Relasi
 
+**Anggota dari**
+- [Asosiasi Pengusaha Sawit](/asosiasi-pengusaha-sawit)
+
+**Pemimpin dari**
+- [Pt Citra Borneo Indah (Cbi Group)](/pt-citra-borneo-indah-(cbi-group))
+
+**Pemilik dari**
+- [Pt Sawit Sumbermas Sarana Tbk (Ssms)](/pt-sawit-sumbermas-sarana-tbk-(ssms))
+
+**Terkait dengan**
+- [Low Tuck Kwong](/low-tuck-kwong)
+- [Jhonlin Group](/jhonlin-group)

@@ -122,4 +122,15 @@ nama_alias:
 ## Catatan
 Profil diperbarui berdasarkan pemberitaan CNN Indonesia (11 September 2026) mengenai estimasi nilai kepemilikan saham publik di PGUN, JARR, TEBE (Rp62,14 T) serta rumor akuisisi 62,2% saham Bayan Resources (BYAN).
 
+## Relasi
 
+**Pemimpin dari**
+- [Jhonlin Group](/jhonlin-group)
+
+**Pemilik dari**
+- [Pt Jhonlin Agro Raya](/pt-jhonlin-agro-raya)
+- [Pt Bayan Resources Tbk](/pt-bayan-resources-tbk)
+
+**Terkait dengan**
+- [Abdul Rasyid As](/abdul-rasyid-as)
+- [Prabowo Subianto](/prabowo-subianto)

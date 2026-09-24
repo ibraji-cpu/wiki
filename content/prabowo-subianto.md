@@ -121,4 +121,13 @@ nama_alias:
 - [[PT Kiani Kertas]]
 - [[Nusantara Group]]
 
+## Relasi
 
+**Pemimpin dari**
+- [Tni Ad](/tni-ad)
+- [Partai Gerindra](/partai-gerindra)
+
+**Terkait dengan**
+- [Ir Joko Widodo](/ir-joko-widodo)
+- [Haji Isam](/haji-isam)
+- [Joko Widodo](/joko-widodo)
