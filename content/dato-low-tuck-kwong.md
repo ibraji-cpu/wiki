@@ -5,36 +5,31 @@ tags:
 - pasar-modal
 - pengusaha
 - pertambangan
----
-
-## Jabatan Aktif
-
-Pemegang Saham Pengendali PT Bayan Resources Tbk (data belum ada-sekarang)
-
-## Afiliasi Bisnis
-
-PT Bayan Resources Tbk
-
-## Partai
-
-independen
-
-## Isu Konsisten
-
+aliases:
+- Dato' Low Tuck Kwong
+- Low Tuck Kwong
+isu_konsisten:
 - pertambangan
 - pasar-modal
-
-## Alias
-
-Low Tuck Kwong
-
-## Latar Militer
-
-False
-
-## Era Politik
-
-Post-2014
+jabatan_aktif:
+- Pemegang Saham Pengendali PT Bayan Resources Tbk (data belum ada-sekarang)
+nama_lengkap: Dato' Low Tuck Kwong
+partai: independen
+latar_militer: false
+confidence: 3
+status_hukum: bersih
+entity_type: individu
+era_politik:
+- Post-2014
+afiliasi_bisnis:
+- PT Bayan Resources Tbk
+entity_id: dato-low-tuck-kwong
+risiko_editorial: rendah
+kategori:
+- pengusaha
+nama_alias:
+- Low Tuck Kwong
+---
 
 # Dato' Low Tuck Kwong
 
@@ -48,3 +43,5 @@ Dato' Low Tuck Kwong adalah pengusaha pendiri dan pemegang saham pengendali PT B
 
 ## Catatan
 Menguasai saham BYAN bersama putrinya, Elaine Low.
+
+

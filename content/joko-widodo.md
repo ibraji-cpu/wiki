@@ -6,37 +6,32 @@ tags:
 - manajemen krisis politik
 - politisi
 - relasi dengan loyalis
----
-
-## Riwayat Jabatan
-
-Presiden Indonesia (2014-2024)
-
-## Partai
-
-PDI-P
-
-## Basis Daerah
-
-Jawa Tengah
-
-## Isu Konsisten
-
+aliases:
+- Joko Widodo
+- Jokowi
+isu_konsisten:
 - dinamika pasca-kepresidenan
 - relasi dengan loyalis
 - manajemen krisis politik
-
-## Alias
-
-Jokowi
-
-## Latar Militer
-
-False
-
-## Era Politik
-
-Post-2014
+nama_lengkap: Joko Widodo
+partai: PDI-P
+basis_daerah:
+- Jawa Tengah
+latar_militer: false
+jabatan_historis:
+- Presiden Indonesia (2014-2024)
+confidence: 3
+status_hukum: bersih
+entity_type: individu
+era_politik:
+- Post-2014
+entity_id: joko-widodo
+risiko_editorial: sedang
+kategori:
+- politisi
+nama_alias:
+- Jokowi
+---
 
 # Joko Widodo
 
@@ -47,3 +42,5 @@ Joko Widodo, atau Jokowi, adalah mantan Presiden Indonesia yang dalam artikel in
 
 ## Catatan
 Sikap diamnya saat Budi Arie melontarkan wacana inkonstitusional menjadi fokus analisis psikologis dan politik dalam artikel.
+
+

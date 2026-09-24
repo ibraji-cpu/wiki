@@ -6,29 +6,27 @@ tags:
 - individu
 - kedaulatan-negara
 - utang-luar-negeri
----
-
-## Partai
-
-independen
-
-## Isu Konsisten
-
+aliases:
+- Ichsanuddin Noorsy
+status_hukum: bersih
+isu_konsisten:
 - utang-luar-negeri
 - kedaulatan-negara
 - ekonomi-politik
-
-## Alias
-
-Ichsanuddin Noorsy
-
-## Latar Militer
-
-False
-
-## Era Politik
-
-Post-2014
+entity_type: individu
+nama_lengkap: Ichsanuddin Noorsy
+era_politik:
+- Post-2014
+partai: independen
+latar_militer: false
+entity_id: ichsanuddin-noorsy
+risiko_editorial: rendah
+kategori:
+- akademisi
+confidence: 3
+nama_alias:
+- Ichsanuddin Noorsy
+---
 
 # Ichsanuddin Noorsy
 
@@ -36,3 +34,5 @@ Pakar ekonomi politik yang mengajukan gagasan kritis bahwa utang luar negeri tel
 
 ## Catatan
 Disebutkan dalam artikel sebagai sumber gagasan kritis mengenai transformasi utang luar negeri menjadi instrumen geopolitik.
+
+

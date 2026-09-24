@@ -11,6 +11,7 @@ tags:
 - offshore
 - relasi-aktor
 - transfer-pricing
+date: '2026-08-30'
 ---
 
 Dokumen ini merupakan peta relasi aktor (*knowledge graph edges*) dari Andi Syamsuddin Arsyad alias Haji Isam.
