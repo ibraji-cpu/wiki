@@ -19,6 +19,84 @@ export default (() => {
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
       unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+    
+    // Generate Schema.org JSON-LD
+    const tags = fileData.frontmatter?.tags || []
+    const date = fileData.frontmatter?.date || ""
+    const baseUrl = `https://${cfg.baseUrl}`
+    const pageUrl = `${baseUrl}/${fileData.slug}`
+    
+    const personTags = ['tokoh', 'aktor', 'politikus', 'pengusaha', 'menteri', 'presiden', 'gubernur']
+    const orgTags = ['partai', 'organisasi', 'perusahaan', 'bumn', 'yayasan']
+    const isPerson = tags.some((t: string) => personTags.includes(t.toLowerCase()))
+    const isOrg = tags.some((t: string) => orgTags.includes(t.toLowerCase()))
+    
+    let mainSchema: Record<string, any> = {}
+    
+    if (isPerson) {
+      mainSchema = {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": title,
+        "url": pageUrl,
+        "description": description,
+        "sameAs": [
+          `https://id.wikipedia.org/wiki/${(fileData.slug || '').replace(/-/g, '_')}`
+        ]
+      }
+    } else if (isOrg) {
+      mainSchema = {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": title,
+        "url": pageUrl,
+        "description": description,
+        "sameAs": [
+          `https://id.wikipedia.org/wiki/${(fileData.slug || '').replace(/-/g, '_')}`
+        ]
+      }
+    } else {
+      mainSchema = {
+        "@context": "https://schema.org",
+        "@type": "NewsArticle",
+        "headline": title,
+        "url": pageUrl,
+        "datePublished": date,
+        "author": {
+          "@type": "Person",
+          "name": "Ira Amalia"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": cfg.pageTitle,
+          "logo": {
+            "@type": "ImageObject",
+            "url": `${baseUrl}/static/covers/ira-amalia-cover.jpg`
+          }
+        }
+      }
+    }
+    
+    const breadcrumbSchema = {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": baseUrl
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": title,
+          "item": pageUrl
+        }
+      ]
+    }
+    
+    const jsonLdSchemas = JSON.stringify([mainSchema, breadcrumbSchema])
 
     const { css, js, additionalHead } = externalResources
 
@@ -107,6 +185,10 @@ export default (() => {
             return resource
           }
         })}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: jsonLdSchemas }}
+        />
       </head>
     )
   }
