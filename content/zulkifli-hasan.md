@@ -72,7 +72,7 @@ nama_alias:
 
 ## Jabatan Aktif
 - Menteri Koordinator Bidang Pangan Kabinet Merah Putih (2024–sekarang)
-- Ketua Umum Partai Amanat Nasional (PAN) (2015–sekarang)
+- Ketua Umum [[pan]] (PAN) (2015–sekarang)
 
 ## Riwayat Jabatan
 - Menteri Perdagangan Republik Indonesia (2022–2024)

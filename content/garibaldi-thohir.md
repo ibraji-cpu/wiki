@@ -50,7 +50,7 @@ nama_alias:
 - Presiden Direktur PT Adaro Energy Indonesia Tbk
 
 ## Riwayat Jabatan
-- Komisaris Utama Bursa Efek Indonesia
+- Komisaris Utama [[bursa-efek-indonesia]]
 - Komisaris PT GoTo Gojek Tokopedia Tbk
 
 

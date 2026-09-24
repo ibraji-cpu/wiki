@@ -22,7 +22,7 @@ confidence: 2
 # Sontang Coin Manurung
 
 ## Jabatan Aktif
-- Kepala Kantor Pertanahan (BPN) Kabupaten Bogor I
+- Kepala [[kantah-bpn-kabupaten-bogor-i]]
 
 ## Catatan
 Onboarding otomatis dari artikel pipeline

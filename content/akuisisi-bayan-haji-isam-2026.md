@@ -15,19 +15,19 @@ cover_image: https://drive.google.com/file/d/1d_ZsRCtZiATB0RqCJnnmeNxUp9I2xChc/v
 
 # Akuisisi Bayan Resources oleh Haji Isam: Dari Rumor 62% hingga Transaksi Resmi 30%
 
-Perjalanan transaksi akuisisi PT Bayan Resources Tbk (BYAN) oleh kelompok usaha Jhonlin milik Haji Isam dimulai dari rumor yang mengguncang pasar pada pertengahan Agustus 2026. Dalam kurun waktu sebulan, pasar menyaksikan bagaimana spekulasi bisa menggerakkan harga saham hingga level batas atas, sebelum akhirnya transaksi resmi diumumkan dengan angka yang jauh lebih kecil dari rumor.
+Perjalanan transaksi akuisisi [[pt-bayan-resources-tbk]] (BYAN) oleh kelompok usaha Jhonlin milik Haji Isam dimulai dari rumor yang mengguncang pasar pada pertengahan Agustus 2026. Dalam kurun waktu sebulan, pasar menyaksikan bagaimana spekulasi bisa menggerakkan harga saham hingga level batas atas, sebelum akhirnya transaksi resmi diumumkan dengan angka yang jauh lebih kecil dari rumor.
 
 ## Timeline Kronologis
 
 ### Juli 2026: Konsentrasi Kepemilikan
 
-Transaksi ini berawal dari struktur kepemilikan BYAN yang memang sudah sangat terkonsentrasi. Per 31 Juli 2026, Dato' Low Tuck Kwong tercatat menguasai 40,251% saham, sementara putrinya Elaine Low memegang 22,002%. Total kepemilikan keluarga Low mencapai 62,253% — angka yang kelak menjadi dasar rumor akuisisi.
+Transaksi ini berawal dari struktur kepemilikan BYAN yang memang sudah sangat terkonsentrasi. Per 31 Juli 2026, [[dato-low-tuck-kwong]] tercatat menguasai 40,251% saham, sementara putrinya Elaine Low memegang 22,002%. Total kepemilikan keluarga Low mencapai 62,253% — angka yang kelak menjadi dasar rumor akuisisi.
 
-Pada 14 Juli, BYAN sendiri sudah masuk dalam daftar High Shareholding Concentration (HSC) dari Bursa Efek Indonesia, menandakan lebih dari 90% sahamnya dikendalikan segelintir investor.
+Pada 14 Juli, BYAN sendiri sudah masuk dalam daftar High Shareholding Concentration (HSC) dari [[bursa-efek-indonesia]], menandakan lebih dari 90% sahamnya dikendalikan segelintir investor.
 
 ### Agustus 2026: Rumor dan Spekulasi
 
-**15 Agustus 2026** menjadi titik balik. Haji Isam (pemilik Jhonlin Group) melakukan kunjungan kerja ke area operasional tambang BYAN di Kutai Kartanegara, Kalimantan Timur. Yang menarik, kehadirannya kali ini didampingi dua figur kunci: Dato' Low Tuck Kwong (pemegang saham pengendali BYAN) dan Norman Joesoef (pemilik Republik Korpora Indonesia/RKI).
+**15 Agustus 2026** menjadi titik balik. Haji Isam (pemilik Jhonlin Group) melakukan kunjungan kerja ke area operasional tambang BYAN di Kutai Kartanegara, Kalimantan Timur. Yang menarik, kehadirannya kali ini didampingi dua figur kunci: [[dato-low-tuck-kwong]] (pemegang saham pengendali BYAN) dan Norman Joesoef (pemilik Republik Korpora Indonesia/[[rki]]).
 
 Kunjungan bersama ini memicu pasar. Kabar bahwa Haji Isam akan mengakuisisi sekitar 62,2% saham BYAN mulai beredar. Angka ini nyaris persis dengan total kepemilikan keluarga Low.
 
@@ -87,7 +87,7 @@ Namun tantangan ke depan masih ada:
 
 Dari rangkaian peristiwa Juli–September 2026, satu hal yang jelas: transaksi akuisisi BYAN oleh Haji Isam adalah contoh bagaimana rumor bisa menggerakkan pasar secara drastis, sementara transaksi resmi seringkali berbeda dari spekulasi.
 
-Jika transaksi 30% ini berhasil dituntaskan, konsolidasi tiga kekuatan besar — Jhonlin Group (produksi tambang), Bayan Resources (kapasitas dan efisiensi), dan RKI (logistik maritim) — akan membentuk ekosistem batubara terintegrasi yang masif di Indonesia.
+Jika transaksi 30% ini berhasil dituntaskan, konsolidasi tiga kekuatan besar — Jhonlin Group (produksi tambang), Bayan Resources (kapasitas dan efisiensi), dan [[rki]] (logistik maritim) — akan membentuk ekosistem batubara terintegrasi yang masif di Indonesia.
 
 Pertanyaannya sekarang: apakah tahap selanjutnya akan ada transaksi tambahan untuk sisa 32,25% saham keluarga Low? Waktu yang akan menjawab.
 

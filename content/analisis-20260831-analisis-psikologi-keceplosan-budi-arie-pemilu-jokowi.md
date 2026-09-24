@@ -14,9 +14,9 @@ cover_image: https://drive.google.com/file/d/1d_ZsRCtZiATB0RqCJnnmeNxUp9I2xChc/v
 
 # Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana Percepatan Pemilu
 
-Apakah sebuah "keceplosan" di panggung politik murni kesalahan mekanis otak yang kelelahan, atau justru wacana rahasia yang sengaja dibiarkan merembes untuk menguji ombak publik? Pertanyaan ini mengemuka setelah beredarnya rekaman viral yang memperlihatkan Ketua Umum Projo, Budi Arie Setiadi, melontarkan gagasan spekulatif mengenai percepatan pemilu sebelum 2029. 
+Apakah sebuah "keceplosan" di panggung politik murni kesalahan mekanis otak yang kelelahan, atau justru wacana rahasia yang sengaja dibiarkan merembes untuk menguji ombak publik? Pertanyaan ini mengemuka setelah beredarnya rekaman viral yang memperlihatkan Ketua Umum [[projo]], [[budi-arie-setiadi]], melontarkan gagasan spekulatif mengenai percepatan pemilu sebelum 2029. 
 
-Ironisnya, pernyataan itu disampaikan di hadapan relawan, dengan mantan Presiden Joko Widodo duduk tepat di sebelahnya, bungkam tanpa sanggahan. Di tengah gelombang kritik yang menyusul, Budi Arie pada tanggal 26 Agustus 2026 maju sebagai perisai, meminta maaf, dan menyebut wacana tersebut murni sebagai "analisis dan insting pribadi" yang tidak berkaitan dengan Jokowi. Namun, benarkah demikian cara kerja pikiran dan dinamika panggung politik?
+Ironisnya, pernyataan itu disampaikan di hadapan relawan, dengan mantan Presiden [[jokowi]] duduk tepat di sebelahnya, bungkam tanpa sanggahan. Di tengah gelombang kritik yang menyusul, Budi Arie pada tanggal 26 Agustus 2026 maju sebagai perisai, meminta maaf, dan menyebut wacana tersebut murni sebagai "analisis dan insting pribadi" yang tidak berkaitan dengan Jokowi. Namun, benarkah demikian cara kerja pikiran dan dinamika panggung politik?
 
 ## Anatomi Keceplosan: Lebih dari Sekadar Eror Kognitif
 

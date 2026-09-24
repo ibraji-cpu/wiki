@@ -33,9 +33,9 @@ nama_alias:
 - Jokowi
 ---
 
-# Joko Widodo
+# [[jokowi]]
 
-Joko Widodo, atau Jokowi, adalah mantan Presiden Indonesia yang dalam artikel ini dikaitkan dengan insiden viral wacana percepatan pemilu. Ia hadir di lokasi kejadian namun memilih diam tanpa memberikan sanggahan seketika, sebuah sikap yang dianalisis sebagai taktik "trial balloon" atau pelestarian harmoni panggung politik di hadapan loyalisnya.
+[[jokowi]], atau Jokowi, adalah mantan Presiden Indonesia yang dalam artikel ini dikaitkan dengan insiden viral wacana percepatan pemilu. Ia hadir di lokasi kejadian namun memilih diam tanpa memberikan sanggahan seketika, sebuah sikap yang dianalisis sebagai taktik "trial balloon" atau pelestarian harmoni panggung politik di hadapan loyalisnya.
 
 ## Riwayat Jabatan
 - Presiden Indonesia (2014-2024)

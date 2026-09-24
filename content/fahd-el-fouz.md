@@ -35,7 +35,7 @@ nama_alias:
 # Fahd El Fouz / Fahd A. Rafiq
 
 ## Jabatan Aktif
-- Ketua DPP Partai Golkar
+- Ketua [[dpp-partai-golkar]]
 - Pihak Swasta
 
 ## Catatan

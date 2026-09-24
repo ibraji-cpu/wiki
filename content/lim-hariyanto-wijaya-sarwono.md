@@ -30,7 +30,7 @@ kategori:
 confidence: 5
 ---
 
-# Lim Hariyanto Wijaya Sarwono
+# [[lim-hariyanto]]
 
 ## Jabatan Aktif
 - Pemimpin Harita Group

@@ -50,6 +50,6 @@ nama_alias:
 
 ## Riwayat Jabatan
 - Bendahara Umum Himpunan Pengusaha Muda Indonesia (HIPMI)
-- Ketua Departemen Perhubungan DPP Partai Golkar
+- Ketua Departemen Perhubungan [[dpp-partai-golkar]]
 
 

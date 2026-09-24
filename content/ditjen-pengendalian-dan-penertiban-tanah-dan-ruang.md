@@ -15,6 +15,6 @@ industri:
 # Ditjen Pengendalian dan Penertiban Tanah dan Ruang Kementerian ATR/BPN
 
 ## Catatan
-Direktorat Jenderal di bawah Kementerian ATR/BPN, kepalanya (Lampri) menjadi tersangka dalam kasus dugaan suap pengurusan HGB
+Direktorat Jenderal di bawah Kementerian ATR/BPN, kepalanya ([[lampri]]) menjadi tersangka dalam kasus dugaan suap pengurusan HGB
 
 

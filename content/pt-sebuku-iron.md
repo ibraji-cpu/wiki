@@ -14,6 +14,6 @@ confidence: 0.8
 # PT Sebuku Iron Lateritic Ores
 
 ## Catatan
-Perusahaan tambang yang izinnya diduga dicabut atas intervensi Sahbirin Noor
+Perusahaan tambang yang izinnya diduga dicabut atas intervensi [[sahbirin-noor]]
 
 

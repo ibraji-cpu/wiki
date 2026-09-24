@@ -14,5 +14,5 @@ tags:
 date: '2026-08-30'
 ---
 
-Dokumen ini merupakan peta relasi aktor (*knowledge graph edges*) dari Andi Syamsuddin Arsyad alias Haji Isam.
+Dokumen ini merupakan peta relasi aktor (*knowledge graph edges*) dari [[andi-syamsuddin-arsyad]] alias Haji Isam.
 Data dikompilasi dari informasi publik yang tersedia untuk keperluan analisis editorial.

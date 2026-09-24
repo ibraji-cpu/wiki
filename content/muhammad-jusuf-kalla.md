@@ -103,7 +103,7 @@ nama_alias:
 ## Riwayat Jabatan
 - Wakil Presiden Republik Indonesia ke-10 (2004-2009)
 - Wakil Presiden Republik Indonesia ke-12 (2014-2019)
-- Ketua Umum DPP Partai Golkar ke-8 (2004-2009)
+- Ketua Umum [[dpp-partai-golkar]] ke-8 (2004-2009)
 - menteri Koordinator Bidang Kesejahteraan Rakyat (Menko Kesra) RI (2001-2004)
 - Menteri Perindustrian dan Perdagangan RI (1999-2000)
 - Kepala Bulog (1999-2000)

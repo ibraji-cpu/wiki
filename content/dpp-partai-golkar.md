@@ -15,6 +15,6 @@ industri:
 # DPP Partai Golkar
 
 ## Catatan
-Disebutkan dalam artikel sebagai afiliasi organisasi dari tersangka Fahd El Fouz / Fahd A. Rafiq yang menjabat sebagai Ketua DPP Partai Golkar.
+Disebutkan dalam artikel sebagai afiliasi organisasi dari tersangka [[fahd-el-fouz]] yang menjabat sebagai Ketua DPP Partai Golkar.
 
 

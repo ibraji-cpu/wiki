@@ -46,9 +46,9 @@ nama_alias:
 # Soetjipto Nagaria
 
 ## Jabatan Aktif
-- Chairman PT Summarecon Agung Tbk
+- Chairman [[pt-summarecon-agung-tbk]]
 
 ## Riwayat Jabatan
-- Presiden Direktur PT Summarecon Agung Tbk (1975-2001)
+- Presiden Direktur [[pt-summarecon-agung-tbk]] (1975-2001)
 
 

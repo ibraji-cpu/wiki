@@ -33,13 +33,13 @@ nama_alias:
 
 # Dato' Low Tuck Kwong
 
-Dato' Low Tuck Kwong adalah pengusaha pendiri dan pemegang saham pengendali PT Bayan Resources Tbk (BYAN) yang menyepakati perjanjian CSPA penjualan 30% saham BYAN kepada kelompok usaha Jhonlin milik Haji Isam.
+Dato' Low Tuck Kwong adalah pengusaha pendiri dan pemegang saham pengendali [[pt-bayan-resources-tbk]] (BYAN) yang menyepakati perjanjian CSPA penjualan 30% saham BYAN kepada kelompok usaha Jhonlin milik Haji Isam.
 
 ## Jabatan Aktif
-- Pemegang Saham Pengendali PT Bayan Resources Tbk (data belum ada-sekarang)
+- Pemegang Saham Pengendali [[pt-bayan-resources-tbk]] (data belum ada-sekarang)
 
 ## Afiliasi Bisnis
-- [[PT Bayan Resources Tbk]]
+- [[pt-bayan-resources-tbk]]bk]]
 
 ## Catatan
 Menguasai saham BYAN bersama putrinya, Elaine Low.

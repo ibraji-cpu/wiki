@@ -21,6 +21,6 @@ nama_alias:
 
 # Projo
 
-Projo adalah organisasi relawan politik yang dipimpin oleh Budi Arie Setiadi. Dalam konteks artikel ini, Projo menjadi panggung di mana wacana spekulatif mengenai percepatan pemilu dilontarkan di hadapan para relawannya.
+Projo adalah organisasi relawan politik yang dipimpin oleh [[budi-arie-setiadi]]. Dalam konteks artikel ini, Projo menjadi panggung di mana wacana spekulatif mengenai percepatan pemilu dilontarkan di hadapan para relawannya.
 
 

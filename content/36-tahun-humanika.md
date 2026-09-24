@@ -11,7 +11,7 @@ date: '2026-09-23'
 cover_image: https://iraamalia.id/covers/ira-amalia-cover.jpg
 ---
 
-<img src="https://iraamalia.id/covers/ira-amalia-cover.jpg" alt="36 Tahun Humanika: Mengapa Perjumpaan Para Mantan Demonstran Ini Begitu Penting Bagi Masa Depan Indonesia?" style="width:100%;max-height:400px;object-fit:cover;margin-bottom:2rem;" />
+<img src="https://[[iraamalia-id]]/covers/ira-amalia-cover.jpg" alt="36 Tahun Humanika: Mengapa Perjumpaan Para Mantan Demonstran Ini Begitu Penting Bagi Masa Depan Indonesia?" style="width:100%;max-height:400px;object-fit:cover;margin-bottom:2rem;" />
 
 36 Tahun Humanika: Mengapa Perjumpaan Para Mantan Demonstran Ini Begitu Penting Bagi Masa Depan Indonesia?
 
@@ -27,7 +27,7 @@ Solidaritas lintas generasi ini menjadi fenomena menarik di tengah polarisasi po
 
 # Paradoks Dukungan: Mengapa Tokoh Kritis Kini Menyerukan Stabilitas?
 
-Salah satu poin yang paling mengundang perhatian dalam reuni ini adalah pernyataan politik dari pendiri sekaligus Ketua pertama Humanika, Bursah Zarnubi. Seorang tokoh yang lahir dari rahim kritik dan perlawanan jalanan kini secara terbuka menyerukan dukungan bagi stabilitas kepemimpinan nasional di bawah Presiden [[Prabowo Subianto]].
+Salah satu poin yang paling mengundang perhatian dalam reuni ini adalah pernyataan politik dari pendiri sekaligus Ketua pertama Humanika, Bursah Zarnubi. Seorang tokoh yang lahir dari rahim kritik dan perlawanan jalanan kini secara terbuka menyerukan dukungan bagi stabilitas kepemimpinan nasional di bawah Presiden [[prabowo-subianto]]to]].
 
 Bursah berargumen bahwa demokrasi akan rusak jika pola "jatuh-bangun" pemerintahan terus berulang. Baginya, mandat rakyat harus diberikan kesempatan untuk membuktikan keberhasilannya tanpa gangguan politik yang prematur. Ini adalah pergeseran dari paradigma "meruntuhkan rezim" menjadi "merawat legasi."
 

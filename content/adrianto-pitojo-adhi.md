@@ -30,10 +30,10 @@ nama_alias:
 # Adrianto Pitojo Adhi
 
 ## Jabatan Aktif
-- Presiden Direktur PT Summarecon Agung Tbk
+- Presiden Direktur [[pt-summarecon-agung-tbk]]
 
 ## Afiliasi Bisnis
-- [[PT Summarecon Agung Tbk]]
+- [[pt-summarecon-agung-tbk]]bk]]
 
 ## Catatan
 Onboarding otomatis dari artikel pipeline
