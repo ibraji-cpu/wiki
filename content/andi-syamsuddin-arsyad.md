@@ -7,6 +7,14 @@ tags:
 - individu
 - pengusaha
 - taipan-batubara
+leader_of:
+- jhonlin-group
+owner_of:
+- pt-jhonlin-agro-raya
+- pt-bayan-resources-tbk
+related:
+- abdul-rasyid-as
+- prabowo-subianto
 isu_konsisten:
 - Pertambangan batu bara dan ekspansi bisnis tambang/emiten
 - Hilirisasi komoditas sawit/biodiesel

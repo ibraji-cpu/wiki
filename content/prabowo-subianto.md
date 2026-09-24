@@ -8,7 +8,14 @@ tags:
 - individu
 - militer
 - pengusaha
-- politisi
+- politikus
+leader_of:
+- tni-ad
+- partai-gerindra
+related:
+- ir-joko-widodo
+- haji-isam
+- joko-widodo
 isu_konsisten:
 - Kedaulatan pangan dan energi
 - Pertahanan negara

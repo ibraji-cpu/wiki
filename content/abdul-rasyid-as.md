@@ -3,6 +3,15 @@ title: Abdul Rasyid AS
 tags:
 - individu
 - pengusaha
+member_of:
+- asosiasi-pengusaha-sawit
+leader_of:
+- pt-citra-borneo-indah-(cbi-group)
+owner_of:
+- pt-sawit-sumbermas-sarana-tbk-(ssms)
+related:
+- low-tuck-kwong
+- jhonlin-group
 isu_konsisten:
 - Industri kelapa sawit terintegrasi, bantuan sosial bencana, pendidikan anak kurang
   mampu di Kalteng (beasiswa Abdul Rasyid Foundation), penyaluran zakat akbar tahunan
