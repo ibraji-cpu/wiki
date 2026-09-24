@@ -7,8 +7,6 @@ tags:
 - bayan-resources
 - haji-isam
 - jhonlin-group
-date: '2026-09-18'
-cover_image: https://drive.google.com/file/d/1d_ZsRCtZiATB0RqCJnnmeNxUp9I2xChc/view?usp=drive_link
 ---
 
 <img src="https://drive.google.com/file/d/1d_ZsRCtZiATB0RqCJnnmeNxUp9I2xChc/view?usp=drive_link" alt="Akuisisi Bayan Resources oleh Haji Isam: Dari Rumor 62% hingga Transaksi Resmi 30%" style="width:100%;max-height:400px;object-fit:cover;margin-bottom:2rem;" />

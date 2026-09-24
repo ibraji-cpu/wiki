@@ -6,29 +6,28 @@ tags:
 - politisi
 - tata-kelola-pemerintahan
 - tokoh-agama
-aliases:
-- Nasaruddin Umar
-- K.H. Nasaruddin Umar
-status_hukum: bersih
-isu_konsisten:
+---
+
+## Jabatan Aktif
+
+Menteri Agama
+
+## Isu Konsisten
+
 - keagamaan
 - tata-kelola-pemerintahan
-entity_type: individu
-jabatan_aktif:
-- Menteri Agama
-nama_lengkap: Nasaruddin Umar
-era_politik:
-- Post-2014
-latar_militer: false
-entity_id: nasaruddin-umar
-risiko_editorial: sedang
-kategori:
-- tokoh-agama
-- politisi
-confidence: 3
-nama_alias:
-- K.H. Nasaruddin Umar
----
+
+## Alias
+
+K.H. Nasaruddin Umar
+
+## Latar Militer
+
+False
+
+## Era Politik
+
+Post-2014
 
 # Nasaruddin Umar
 
@@ -39,5 +38,3 @@ Nasaruddin Umar adalah Menteri Agama Republik Indonesia yang namanya sempat menj
 
 ## Catatan
 Nama beliau dijadikan contoh dalam artikel terkait kabar bohong mengenai pengunduran dirinya dari Kabinet demi memicu kehebohan publik dan mengejar target trafik media.
-
-

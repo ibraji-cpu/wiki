@@ -5,28 +5,28 @@ tags:
 - individu
 - kebijakan-fiskal
 - politisi
-aliases:
-- Purbaya Yudhi Sadewa
-- Purbaya Sadewa
-status_hukum: bersih
-isu_konsisten:
+---
+
+## Riwayat Jabatan
+
+Pejabat Publik
+
+## Isu Konsisten
+
 - kebijakan-fiskal
 - daya-beli-masyarakat
-entity_type: individu
-nama_lengkap: Purbaya Yudhi Sadewa
-era_politik:
-- Post-2014
-latar_militer: false
-jabatan_historis:
-- Pejabat Publik
-entity_id: purbaya-yudhi-sadewa
-risiko_editorial: sedang
-kategori:
-- politisi
-confidence: 3
-nama_alias:
-- Purbaya Sadewa
----
+
+## Alias
+
+Purbaya Sadewa
+
+## Latar Militer
+
+False
+
+## Era Politik
+
+Post-2014
 
 # Purbaya Yudhi Sadewa
 
@@ -37,5 +37,3 @@ Purbaya Yudhi Sadewa adalah seorang pejabat publik yang pergeseran posisinya men
 
 ## Catatan
 Artikel menyoroti pergantian posisinya yang dibingkai secara dramatis oleh media alih-alih dijadikan bahan audit intelektual terhadap kebijakan ekonomi.
-
-

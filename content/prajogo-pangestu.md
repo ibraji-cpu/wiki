@@ -4,33 +4,40 @@ tags:
 - Petrokimia dan Energi
 - individu
 - pengusaha
-pengaruh_media: tinggi
-status_hukum: bersih
-last_updated: '2026-09-12T15:07:15.252931+00:00'
-isu_konsisten:
-- Petrokimia dan Energi
-entity_type: individu
-jabatan_aktif:
-- Pendiri Barito Pacific Group
-nama_lengkap: Prajogo Pangestu
-era_politik:
-- Orde Baru
-- Reformasi
-- Post-2014
-afiliasi_bisnis:
+---
+
+## Jabatan Aktif
+
+Pendiri Barito Pacific Group
+
+## Afiliasi Bisnis
+
 - Barito Pacific
 - Chandra Asri Group
-latar_militer: tidak
-entity_id: prajogo-pangestu
-kepemilikan_konsesi:
+
+## Kepemilikan Konsesi
+
 - Petrokimia
 - Energi
 - Industri Kayu
-risiko_editorial: rendah
-kategori:
-- pengusaha
-confidence: 5
----
+
+## Isu Konsisten
+
+Petrokimia dan Energi
+
+## Pengaruh Media
+
+tinggi
+
+## Latar Militer
+
+tidak
+
+## Era Politik
+
+- Orde Baru
+- Reformasi
+- Post-2014
 
 # Prajogo Pangestu
 
@@ -43,5 +50,3 @@ confidence: 5
 
 ## Catatan
 Orang terkaya #2 RI versi Forbes (Sept 2026) dengan kekayaan Rp 301,12 triliun (17,2 miliar USD).
-
-

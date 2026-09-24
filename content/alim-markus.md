@@ -5,45 +5,54 @@ tags:
 - Penggunaan produk lokal
 - individu
 - pengusaha
-isu_konsisten:
-- Penggunaan produk lokal
-- Kesejahteraan buruh industri
-jabatan_aktif:
-- Presiden Direktur Maspion Group (1971-sekarang)
-catatan_kontroversial:
-- Sengketa industrial rutin (demonstrasi buruh Maspion)
-nama_lengkap: Alim Markus
-basis_daerah:
-- Surabaya
-- Sidoarjo (Jawa Timur)
-latar_militer: tidak
-jabatan_historis:
+---
+
+## Jabatan Aktif
+
+Presiden Direktur Maspion Group (1971-sekarang)
+
+## Riwayat Jabatan
+
 - Anggota Dewan Pemantau Keuangan Negara
 - Penasihat Asosiasi Pengusaha Indonesia
-kebijakan_didukung:
+
+## Basis Daerah
+
+- Surabaya
+- Sidoarjo (Jawa Timur)
+
+## Isu Konsisten
+
+- Penggunaan produk lokal
+- Kesejahteraan buruh industri
+
+## Kontroversi
+
+Sengketa industrial rutin (demonstrasi buruh Maspion)
+
+## Kebijakan Didukung
+
 - Cintailah Produk-Produk Indonesia
 - Perlindungan industri manufaktur dalam negeri
-confidence: 5
-status_hukum: bersih
-last_updated: '2026-08-19T19:56:25.064585+00:00'
-entity_type: individu
-_migrated_v2_at: '2026-08-30T05:43:28.429851+00:00'
-era_politik:
+
+## Dinasti Politik
+
+- Alim Mulia Sastra (Saudara)
+- Alim SP (Saudara)
+
+## Alias
+
+Lin Jiexian
+
+## Latar Militer
+
+tidak
+
+## Era Politik
+
 - Orde Baru
 - Reformasi
 - Post-2014
-dinasti_politik:
-- Alim Mulia Sastra (Saudara)
-- Alim SP (Saudara)
-tipe: individu
-_migrated_from: alim-markus
-entity_id: alim-markus
-risiko_editorial: rendah
-kategori:
-- pengusaha
-nama_alias:
-- Lin Jiexian
----
 
 # Alim Markus
 
@@ -53,5 +62,3 @@ nama_alias:
 ## Riwayat Jabatan
 - Anggota Dewan Pemantau Keuangan Negara
 - Penasihat Asosiasi Pengusaha Indonesia
-
-
