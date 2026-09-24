@@ -131,7 +131,7 @@ plugins:
       position: left
       priority: 40
   - source: "@quartz-community/graph"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/search"
     enabled: true
     layout:
@@ -256,8 +256,10 @@ layout:
         left: []
         right: []
     content:
-      exclude:
-        - graph
+      positions:
+        afterBody:
+          - Relations
+          - backlinks
     folder:
       exclude:
         - reader-mode
